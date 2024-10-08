@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simran-10Arora
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning about Fundamentals of Data Analytics
+- 🌱 Google certified Data Analyst
 
 
 <!---
