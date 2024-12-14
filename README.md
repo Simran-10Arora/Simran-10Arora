@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simran-10Arora
-- 👀 I’m interested in Data Analysis
+- 👀 Data Analyst
 - 🌱 Google certified Data Analyst
 
 
